@@ -1,4 +1,4 @@
-export const FakeAd = ()=>{
+export default function FakeAd(){
 const robux = document.getElementById('nav-robux-amount');
 const avt = document.querySelector('.avatar-card-image');
 const img_avt = document.querySelector('.avatar-card-image img')
